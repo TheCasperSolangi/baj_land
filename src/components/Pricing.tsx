@@ -173,7 +173,7 @@ const Pricing = () => {
               animate={{ opacity: 1 }}
               transition={{ delay: 0.5 }}
             >
-              <span className="font-bold text-primary">Save 7-15%</span> on every sale compared to traditional platforms
+              <span className="font-bold text-primary">Save 30-40%</span> on every sale compared to traditional platforms
             </motion.p>
           </div>
         </motion.div>
